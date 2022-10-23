@@ -1,0 +1,26 @@
+{
+  "name": "jamstack-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+        "url": "git+https://github.com/douglas85rj/jamstack-files.git"
+  },
+  "author": "Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglas85rj/jamstack-files/issues"
+  },
+  "homepage": "https://github.com/douglas85rj/jamstack-files#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "save-dev": "^0.0.1-security",
+    "serve": "^14.0.1"
+  }
+}
